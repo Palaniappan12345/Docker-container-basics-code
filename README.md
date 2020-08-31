@@ -1,2 +1,6 @@
-# Docker-container-basics-code
-In this docker container we have shown some api work as cats fun gif
+Docker Curriculum
+===
+
+> Learn to build and deploy your distributed applications easily to the cloud with Docker
+
+Follow the curriculum on [docker-curriculum.com](https://docker-curriculum.com/)
